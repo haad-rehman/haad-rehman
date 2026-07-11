@@ -1,16 +1,13 @@
-## Hi there 👋
+### Haad Rehman
 
-<!--
-**haad-rehman/haad-rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Nuqta** — a brand and web design studio in Doha, Qatar.
+I design and build websites and brand identities for founder-led B2B companies.
 
-Here are some ideas to get you started:
+- 🌐 [nuqtaa.studio](https://nuqtaa.studio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/haadrehman/)
+- 📍 Doha, Qatar
+- ✉️ [Book a call](https://cal.com/hadu-wfspde/intro-call-with-haad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I do:** brand identity · web design · web development · art direction
