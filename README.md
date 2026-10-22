@@ -6,7 +6,7 @@ I design and build websites and brand identities for founder-led B2B companies.
 
 - 🌐 [nuqtaa.studio](https://nuqtaa.studio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/haadrehman/)
-- [Teach64](https://teach64.com)
+- ♟️ [Teach64](https://teach64.com)
 - 📍 Doha, Qatar
 - ✉️ [Book a call](https://cal.com/hadu-wfspde/intro-call-with-haad)
 
